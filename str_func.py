@@ -3,4 +3,5 @@ def func(str):
     return str.upper()
 
 def func2(text):
+    """Первые симолы каждого слова с заглавной буквы"""
     return text.title()
